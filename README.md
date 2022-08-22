@@ -1,4 +1,4 @@
-<p align="center"><img src="WhatsApp Image 2022-08-22.jpeg" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src ="file:///D|/Wahyu Ramadanu XII 2/WhatsApp Image 2022-08-22 at 10.19.02.jpeg" alt="ICON" width="250" height="250"/></p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
